@@ -15,8 +15,19 @@ body{
         text-align: center;
         width: 300px;
 }
+
 input{
     display: block;
     width: 100%;
     padding: 10px;  
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button{
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+
 }
